@@ -23,6 +23,7 @@ module counter
 			r_tmp_counter <= 0;
 			r_units <= 0;
 			r_tens <= 0;
+			r_hundreds <= 0;
 			r_thousands <= 0;
 		end
 		else
