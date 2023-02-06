@@ -55,9 +55,16 @@ https://fpgasoftware.intel.com/eula.
 	(port
 		(pt 192 64)
 		(output)
-		(text "o_thousands[3..0]" (rect 0 0 70 12)(font "Arial" ))
-		(text "o_thousands[3..0]" (rect 101 59 171 71)(font "Arial" ))
+		(text "o_hundreds[3..0]" (rect 0 0 67 12)(font "Arial" ))
+		(text "o_hundreds[3..0]" (rect 104 59 171 71)(font "Arial" ))
 		(line (pt 192 64)(pt 176 64)(line_width 3))
+	)
+	(port
+		(pt 192 80)
+		(output)
+		(text "o_thousands[3..0]" (rect 0 0 70 12)(font "Arial" ))
+		(text "o_thousands[3..0]" (rect 101 75 171 87)(font "Arial" ))
+		(line (pt 192 80)(pt 176 80)(line_width 3))
 	)
 	(drawing
 		(rectangle (rect 16 16 176 96)(line_width 1))
