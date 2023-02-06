@@ -24,12 +24,28 @@ module counter
 		end
 		else
 		begin
-			if(r_tmp_counter == (100))
+			if(r_tmp_counter == (10000000-1))
 			begin
 				r_tmp_counter <= 0;
-				if(r_units == 9)
+				if(r_units == (10-1))
 				begin
 					r_units <= 0;
+					if(r_tens == (10-1))
+					begin
+						r_tens <= 0;
+						if(r_thousands == (10-1))
+						begin
+							r_thousands <= 0;
+						end
+						else
+						begin
+							r_thousands <= r_thousands+1;
+						end
+					end
+					else
+					begin
+						r_tens <= r_tens + 1;
+					end
 				end
 				else
 				begin
