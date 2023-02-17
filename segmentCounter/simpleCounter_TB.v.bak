@@ -1,0 +1,3 @@
+module simpleCounter_TB();
+
+endmodule
