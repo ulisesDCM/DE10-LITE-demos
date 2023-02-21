@@ -8,7 +8,7 @@ module half_adder_tb;
     wire sum, carry;
 
     // duration for each bit = 20 * timescale = 20 * 1 ns  = 20ns
-    localparam period = 20;  
+    localparam period = 10;  
 
     half_adder UUT (.a(a), .b(b), .sum(sum), .carry(carry));
     
