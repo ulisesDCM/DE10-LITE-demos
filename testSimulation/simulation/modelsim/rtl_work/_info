@@ -1,0 +1,92 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+!s11f vlog 2021.2 2021.04, Apr 14 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dC:/Users/ulises/Documents/GitHub/ulisesDCM/BUCKET-repos/DE10-LITE-BUCKET/testSimulation/simulation/modelsim
+T_opt
+!s110 1676968537
+VAz6WSW4=NXLgMOaRh1J@J0
+Z2 04 13 4 work half_adder_tb fast 0
+=1-c84bd64f9f6f-63f48259-1be-44a0
+Z3 !s124 OEM10U2 
+o-quiet -auto_acc_if_foreign -work work -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L fiftyfivenm_ver -L rtl_work -L work +acc
+Z4 tCvgOpt 0
+n@_opt
+Z5 OL;O;2021.2;73
+R1
+T_opt1
+!s110 1676968645
+V:be6_@>:[`eY5j4UM`07N2
+R2
+=1-c84bd64f9f6f-63f482c4-34b-2dc8
+R3
+o-quiet -auto_acc_if_foreign -work work +acc
+R4
+n@_opt1
+R5
+R1
+T_opt2
+!s110 1676968806
+V_M7JKT@F>LKGYZRG[THXh3
+R2
+=1-c84bd64f9f6f-63f48366-f5-3df0
+R3
+o-quiet -auto_acc_if_foreign -work work
+R4
+n@_opt2
+R5
+vhalf_adder
+Z6 !s110 1676968536
+!i10b 1
+!s100 :gWA[ZGzUeg?4fP6oQS?73
+If2TKIIYdmGjBg?71RFeMD2
+R1
+w1676968281
+8C:/Users/ulises/Documents/GitHub/ulisesDCM/BUCKET-repos/DE10-LITE-BUCKET/testSimulation/half_adder.v
+FC:/Users/ulises/Documents/GitHub/ulisesDCM/BUCKET-repos/DE10-LITE-BUCKET/testSimulation/half_adder.v
+!i122 0
+L0 3 10
+Z7 VDg1SIo80bB@j0V0VzS_@n1
+Z8 OL;L;2021.2;73
+r1
+!s85 0
+31
+Z9 !s108 1676968536.000000
+!s107 C:/Users/ulises/Documents/GitHub/ulisesDCM/BUCKET-repos/DE10-LITE-BUCKET/testSimulation/half_adder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/ulises/Documents/GitHub/ulisesDCM/BUCKET-repos/DE10-LITE-BUCKET/testSimulation|C:/Users/ulises/Documents/GitHub/ulisesDCM/BUCKET-repos/DE10-LITE-BUCKET/testSimulation/half_adder.v|
+!i113 0
+Z10 o-vlog01compat -work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z11 !s92 -vlog01compat -work work +incdir+C:/Users/ulises/Documents/GitHub/ulisesDCM/BUCKET-repos/DE10-LITE-BUCKET/testSimulation -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R4
+vhalf_adder_tb
+R6
+!i10b 1
+!s100 H[T54K6m1n<P[B[z=K9>N0
+IdiEA<VoiDl35Ea1:_jZ7D0
+R1
+w1676968312
+8C:/Users/ulises/Documents/GitHub/ulisesDCM/BUCKET-repos/DE10-LITE-BUCKET/testSimulation/half_adder_tb.v
+FC:/Users/ulises/Documents/GitHub/ulisesDCM/BUCKET-repos/DE10-LITE-BUCKET/testSimulation/half_adder_tb.v
+!i122 1
+L0 5 30
+R7
+R8
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/ulises/Documents/GitHub/ulisesDCM/BUCKET-repos/DE10-LITE-BUCKET/testSimulation/half_adder_tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/ulises/Documents/GitHub/ulisesDCM/BUCKET-repos/DE10-LITE-BUCKET/testSimulation|C:/Users/ulises/Documents/GitHub/ulisesDCM/BUCKET-repos/DE10-LITE-BUCKET/testSimulation/half_adder_tb.v|
+!i113 0
+R10
+R11
+R4
